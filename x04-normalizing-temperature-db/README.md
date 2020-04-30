@@ -20,7 +20,7 @@ This database should hold a log of different temperature values that are measure
 
 <!-- TODO: describe the steps you followed and show the resulting ER diagram -->
 
-## Converting to the first normal form (NF2)
+## Converting to the second normal form (NF2)
 
 <!-- TODO: describe the steps you followed and show the resulting ER diagram -->
 
