@@ -43,4 +43,4 @@ Finished | Exercise
 :x: | [Normalizing a Netflix database](x05-normalizing-netflix-db/README.md)
 :x: | [Normalizing a study program database](x06-normalizing-study-program-db/README.md)
 :x: | [Normalizing an examination database](x07-normalizing-examination-db/README.md)
-<!-- :x: | [Hacking a database](x99-hacking-a-database/README.md) -->
+:x: | [Hacking a database](x99-hacking-a-database/README.md)
