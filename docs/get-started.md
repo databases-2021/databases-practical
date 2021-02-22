@@ -6,7 +6,7 @@ To get started you will first need to get a copy of this repository. Follow the 
 1. Accept the assignment
 1. Wait for your own personal copy to be created (can take up to several minutes)
 1. Open the GitHub page of your repository
-1. Copy the ssh clone-url (green button) that looks like `git@github.com:databases-2021/databases-practical-<username>.git`
+1. Copy the ssh clone-url (green button) that looks like `git@github.com:databases-2021/ex-databases-<username>.git`
 1. Traverse to a local directory on your system where you wish to clone the repo using Windows Explorer. Open `PowerShell` in that location by typing powershell in the location bar as shown in the screenshot below.
 
 _Please don't choose a destination directory that is nested very deeply. The structure of this repo introduces quite a lot of subdirectories and might give problems towards maximum path length in Windows._
@@ -22,7 +22,7 @@ git clone <place-ssh-url-here>
 You should get the following output:
 
 ```shell
-Cloning into 'databases-practical-sillevl'...
+Cloning into 'ex-databases-<username>.git'...
 Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
 remote: Enumerating objects: 185, done.
 remote: Compressing objects: 100% (109/109), done.
@@ -32,4 +32,4 @@ Resolving deltas: 100% (57/57), done.
 
 Now you should have your local copy of the repository.
 
-All git commands in other sections should always be executed inside of the project dir called `databases-practical-<username>`.
+All git commands in other sections should always be executed inside of the project dir called `ex-databases-<username>`.
